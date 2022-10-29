@@ -36,10 +36,8 @@ h1 {
     margin: 5% 3% 5% 0;
 }
 .title-img {
-    width: 60%;
-    transform: rotate(25deg);
+    width: 100%;
     position: absolute;
-    right: 30%;
 }
 
 #features {
